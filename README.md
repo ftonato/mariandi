@@ -1,4 +1,4 @@
-# mariandme
+# mariandi
 
 Esse é um [blog](_addURl_) pessoal que foi criado com intuito de armazenar experiências e desejos, muitas vezes com um simples agradecer, outrora com apenas reclamações.
 
